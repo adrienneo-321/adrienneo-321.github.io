@@ -1,3 +1,6 @@
+title: Hey There Friend!
+
+
 ## Well Hi There!
 
 You can use the [editor on GitHub](https://github.com/adrienneo-321/adrienneo-321.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
